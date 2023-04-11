@@ -1,0 +1,7 @@
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\chinese_calendar\bin\Debug\chinese_calendar.exe.config
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\chinese_calendar\bin\Debug\chinese_calendar.exe
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\chinese_calendar\bin\Debug\chinese_calendar.pdb
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\chinese_calendar\obj\Debug\chinese_calendar.csproj.AssemblyReference.cache
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\chinese_calendar\obj\Debug\chinese_calendar.csproj.CoreCompileInputs.cache
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\chinese_calendar\obj\Debug\chinese_calendar.exe
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\chinese_calendar\obj\Debug\chinese_calendar.pdb
